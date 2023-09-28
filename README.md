@@ -1,5 +1,5 @@
 - Comp Sci major, gearing towards game development 
-- Most comfortable with C++ although I can do Java too
+- Most comfortable with Java although I can do C++ too
 - Email: mmdueifi@gmail.com
 - Discord: SahakiSen#7590
 
