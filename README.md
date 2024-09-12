@@ -1,7 +1,6 @@
 - Comp Sci major, gearing towards game development 
 - Most comfortable with Java although I can do C++ too
 - Email: mmdueifi@gmail.com
-- Discord: SahakiSen#7590
 
 <!---
 MaryamDu/MaryamDu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
